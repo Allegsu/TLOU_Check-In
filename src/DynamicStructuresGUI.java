@@ -14,7 +14,7 @@ public class DynamicStructuresGUI extends JFrame implements ActionListener {
         setLayout(null);
 
         //Set the Icon for the application 
-        setIconImage(new ImageIcon("C:/Users/alleg/Desktop/Allegsu/School/Third Semester/EOP/P_9/images/fireflies.png").getImage());
+        setIconImage(new ImageIcon("src/images/fireflies.png").getImage());
 
         //Set bounds for the GUI in the center of the screen 
         setLocationRelativeTo(null);
